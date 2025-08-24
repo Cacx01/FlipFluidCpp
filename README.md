@@ -1,3 +1,5 @@
+![FluidDemo](https://github.com/user-attachments/assets/2c77dc8f-4bd2-45b5-8206-0fe80290ac82)
+
 # A C++ port of Ten Minute Physics FLIP demo by Matthias Müller with added features
 
 Original demo / video: https://matthias-research.github.io/pages/tenMinutePhysics/
